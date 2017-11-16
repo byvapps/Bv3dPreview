@@ -14,6 +14,10 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		62FC3F24E0AC588CFE29C3F4 /* Pods_Bv3dPreview_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4A8317DED62AE823A56A5B6 /* Pods_Bv3dPreview_Tests.framework */; };
+		8648E57A1FBDAC8C006C3F7E /* Fighter_Specular_25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8648E5761FBDAC8C006C3F7E /* Fighter_Specular_25.jpg */; };
+		8648E57B1FBDAC8C006C3F7E /* Fighter_Diffuse_25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8648E5771FBDAC8C006C3F7E /* Fighter_Diffuse_25.jpg */; };
+		8648E57C1FBDAC8C006C3F7E /* Fighter_Illumination_25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8648E5781FBDAC8C006C3F7E /* Fighter_Illumination_25.jpg */; };
+		8648E5851FBDE568006C3F7E /* Fighter.obj in Resources */ = {isa = PBXBuildFile; fileRef = 8648E5841FBDE567006C3F7E /* Fighter.obj */; };
 		C5D6FE358DA566234E4E302E /* Pods_Bv3dPreview_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1084FAB2782CA169E0D1EAD /* Pods_Bv3dPreview_Example.framework */; };
 /* End PBXBuildFile section */
 
@@ -28,10 +32,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0A520E3D6E9B0A3B81CD2B43 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		0A520E3D6E9B0A3B81CD2B43 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		0BF635415DDBC01FB1298714 /* Pods-Bv3dPreview_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bv3dPreview_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Bv3dPreview_Example/Pods-Bv3dPreview_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		4D6DD916E2C9075C4E9C6873 /* Bv3dPreview.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = Bv3dPreview.podspec; path = ../Bv3dPreview.podspec; sourceTree = "<group>"; };
-		549C0FCD253A3B611A514445 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4D6DD916E2C9075C4E9C6873 /* Bv3dPreview.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Bv3dPreview.podspec; path = ../Bv3dPreview.podspec; sourceTree = "<group>"; };
+		549C0FCD253A3B611A514445 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* Bv3dPreview_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bv3dPreview_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -42,6 +46,10 @@
 		607FACE51AFB9204008FA782 /* Bv3dPreview_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Bv3dPreview_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
+		8648E5761FBDAC8C006C3F7E /* Fighter_Specular_25.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fighter_Specular_25.jpg; sourceTree = "<group>"; };
+		8648E5771FBDAC8C006C3F7E /* Fighter_Diffuse_25.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fighter_Diffuse_25.jpg; sourceTree = "<group>"; };
+		8648E5781FBDAC8C006C3F7E /* Fighter_Illumination_25.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fighter_Illumination_25.jpg; sourceTree = "<group>"; };
+		8648E5841FBDE567006C3F7E /* Fighter.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Fighter.obj; sourceTree = "<group>"; };
 		8CFF8E43BFCE039EDC934228 /* Pods-Bv3dPreview_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bv3dPreview_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Bv3dPreview_Tests/Pods-Bv3dPreview_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		8E97B4C59DDA59E842F3156F /* Pods-Bv3dPreview_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bv3dPreview_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-Bv3dPreview_Example/Pods-Bv3dPreview_Example.release.xcconfig"; sourceTree = "<group>"; };
 		A1084FAB2782CA169E0D1EAD /* Pods_Bv3dPreview_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Bv3dPreview_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -104,6 +112,7 @@
 		607FACD21AFB9204008FA782 /* Example for Bv3dPreview */ = {
 			isa = PBXGroup;
 			children = (
+				8648E5751FBDAC52006C3F7E /* Resources */,
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
@@ -148,6 +157,17 @@
 				0A520E3D6E9B0A3B81CD2B43 /* LICENSE */,
 			);
 			name = "Podspec Metadata";
+			sourceTree = "<group>";
+		};
+		8648E5751FBDAC52006C3F7E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8648E5841FBDE567006C3F7E /* Fighter.obj */,
+				8648E5771FBDAC8C006C3F7E /* Fighter_Diffuse_25.jpg */,
+				8648E5781FBDAC8C006C3F7E /* Fighter_Illumination_25.jpg */,
+				8648E5761FBDAC8C006C3F7E /* Fighter_Specular_25.jpg */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		DE72727ECA423DC98FB5ECFD /* Frameworks */ = {
@@ -216,6 +236,7 @@
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;
+						ProvisioningStyle = Manual;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
@@ -248,9 +269,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8648E57B1FBDAC8C006C3F7E /* Fighter_Diffuse_25.jpg in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
+				8648E5851FBDE568006C3F7E /* Fighter.obj in Resources */,
+				8648E57A1FBDAC8C006C3F7E /* Fighter_Specular_25.jpg in Resources */,
+				8648E57C1FBDAC8C006C3F7E /* Fighter_Illumination_25.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -517,13 +542,18 @@
 			baseConfigurationReference = 0BF635415DDBC01FB1298714 /* Pods-Bv3dPreview_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Bv3dPreview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -532,13 +562,18 @@
 			baseConfigurationReference = 8E97B4C59DDA59E842F3156F /* Pods-Bv3dPreview_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Bv3dPreview/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
