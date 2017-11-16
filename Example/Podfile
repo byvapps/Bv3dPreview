@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Bv3dPreview_Example' do
+  pod 'Bv3dPreview', :path => '../'
+
+  target 'Bv3dPreview_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
