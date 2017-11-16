@@ -37,6 +37,6 @@ A lightweight library for displaying 3D Models in iOS.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'SceneKit.ModelIO'
+  s.frameworks = 'SceneKit', 'ModelIO'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
